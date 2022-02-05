@@ -29,7 +29,7 @@ Results:
 
 -The total number of non-vine reviews that were 5- star was 32,646 reviews.
 
-![](Resources/5star_unpaid_count.PNG)
+![](Resources/5start_unpaid_count.PNG)
 
 
 -The percentage of vine reviews that were 5 -star was 41.74 %
