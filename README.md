@@ -5,6 +5,8 @@ For this module, we used datasets that contained reviews of specific products an
 
 
 Results:
+
+
 -The total number of vine reviews for this specific dataset that had a helpful vote percentage of 50% or more was a total of 333 reviews. 
 
 ![](Resources/paid_count.PNG)
