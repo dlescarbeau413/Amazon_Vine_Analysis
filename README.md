@@ -8,21 +8,33 @@ Results:
 -The total number of vine reviews for this specific dataset that had a helpful vote percentage of 50% or more was a total of 333 reviews. 
 
 ![](Resources/paid_count.PNG)
+
+
 -The total number of non-vine reviews in this data with a helpful vote percentage of 50% or more was 61,474 total reviews
 
 ![](Resources/count_unpaid.PNG)
+
+
 -The total number of reviews all together that had a 50% helpful vote percentage was 61,807.
 
 ![](Resources/fiftyper_helpful_count.PNG)
+
+
 -The total number of vine reviews that were 5-Stars was 139 reviews.
 
 ![](Resources/5star_paid_count.PNG)
+
+
 -The total number of non-vine reviews that were 5- star was 32,646 reviews.
 
 ![](Resources/5star_unpaid_count.PNG)
+
+
 -The percentage of vine reviews that were 5 -star was 41.74 %
 
 ![](Resources/5star_paid_percentage.PNG)
+
+
 -The percentage of non-vine reviews that was 53.1 %.
 
 ![](Resources/5star_upaid_percentage.PNG)
