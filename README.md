@@ -46,4 +46,6 @@ Results:
 Summary:
 
 
-For this specific dataset, you can see there isn’t much bias in the Vine program. We can actually see in this dataset that the total number of non-vine reviews that were 5-star is actually greater than the total number of vine reviews that were 5-star. In order to investigate further if there is any bias towards the vine review or not, we could use the same process on different datasets to see if there is a trend with different types of products. 
+For this specific dataset, you can see there isn’t much bias in the Vine program when it comes to 5-star reviews. We can actually see in this dataset that the total number of non-vine reviews that were 5-star is actually greater than the total number of vine reviews that were 5-star. We see that 53% of non-vine reviews were 5 stare and that 43% of vine reviews were 5-star. In order to investigate further if there is any bias towards the vine review or non-vine, we could use the same process on different datasets to see if there is a trend with different types of products. 
+
+Other analysis that we could preform to see if there is the same trend in this dataset would be to look at a handful of datasets and use the same process we used on this dataset. This way we can compare the datasets to see if it is bias toward different types of proucts. Another way we can look at the dataset is to look at the dataset as a whole and see how the other star reviews compare to vine and nonvine reviews. Instead of just looking at the 5-star reviews we should look at the other rated reviews as well. 
